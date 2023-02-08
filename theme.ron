@@ -1,7 +1,7 @@
 #![enable(implicit_some)]
 (
     border_width: 2,
-    margin: 4,
+    margin: 0,
     default_border_color: "#1e1e2e",
     floating_border_color: "#89dceb",
     focused_border_color: "#cba6f7",
